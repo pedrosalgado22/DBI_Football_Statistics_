@@ -1,0 +1,7 @@
+The main flaws were on:
+
+* **On exercise 1:** You are doing a left join, so you can have players with Null club. Also, you are returning the last valid transfer, no the active transfer at the current date, so a player that already retired will have the as a result the last club id that he played (note that we are not supposed to delete transfers, since we want to have a complete record of the clubs of all the players across time).
+* **On exercise 4, doing the Update:** you are adding more records when you are doing the update (you should change the existing ones instead), that happens when I test with one, or more correct values, and for correct and incorrect entries together:
+
+
+<img width="865" height="834" alt="Image" src="https://github.com/user-attachments/assets/a23e6947-b4ac-462d-b267-c86b05c45d8d" />
