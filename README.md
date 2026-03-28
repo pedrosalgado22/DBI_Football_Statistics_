@@ -13,8 +13,8 @@ A relational database system designed to store and manage detailed information a
 2. `Finalsolution.sql` — full implementation of Part II: views, functions, triggers and stored procedures
 3. `Football Statistics Project Solution - Conceptual.cdm` — Entity-Relationship model developed in PowerDesigner
 4. `Football Statistics Project Solution - Physical.pdm` — Physical relational model developed in PowerDesigner
-5. `Final Project - Part I.pdf` — Part I report
-6. `projectguidelines.pdf` — course project guidelines
+5. `Final Project - Part I.pdf` — Part I guidelines
+6. `projectguidelines.pdf` — Part II guidelines
 7. `teachersannotations` — teacher's improvement suggestions
 
 ---
